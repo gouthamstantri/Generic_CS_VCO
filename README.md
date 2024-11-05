@@ -1,4 +1,6 @@
 # Generic_CS_VCO
+![image](https://github.com/user-attachments/assets/618bf900-994f-49b7-98ea-0a4d58477aa9)
+
 ## Future Work
 ## Contributors
 * Goutham S Tantri
