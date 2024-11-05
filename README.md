@@ -1,4 +1,7 @@
 # Generic_CS_VCO
+This project simulates the designed Bandgap Reference circuit to determine its performance characterisitics pre-layout and post-layout.
+## A Glance at the Bandgap Reference IP
+Note: Circuit requires further optimization to improve performance. Design yet to be modified.
 ![image](https://github.com/user-attachments/assets/618bf900-994f-49b7-98ea-0a4d58477aa9)
 | First Header  | Second Header |
 | ------------- | ------------- |
